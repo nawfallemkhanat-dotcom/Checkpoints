@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Silver Spoon Restaurant</title>
+</head>
+<body style="text-align: center;">
+    <h1>The Silver Spoon Restaurant Menu</h1>
+    <strong><h2>Appetizers</h2></strong>
+<ul>
+     <li>
+     <strong>Bruschetta Trio</strong>
+     <p>Grilled baguette topped with tomato basil, roasted pepper spread, and olive tapenade</p>
+     </li>
+     <li>
+     <strong>Crispy Calamari</strong>
+     <p>Lightly fried calamari served with lemon aioli and marinara sauce</p>
+     </li>
+     <li>
+     <strong>Stuffed Mushrooms</strong>
+     <p>Baked mushrooms filled with herbed cream cheese and breadcrumbs</p>
+     </li>
+</ul>
+    <strong> <h2>Main Courses</h2></strong>
+<ul>
+     <li>
+     <strong>Grilled Herb Chicken</strong>
+     <p>Served with roasted potatoes, seasonal vegetables, and garlic butter sauce</p>
+     </li>     
+     <li>
+     <strong>Pan-Seared Salmon</strong>
+     <p>Atlantic salmon atop wild rice pilaf with dill cream sauce</p>
+     </li>
+     <li>
+     <strong>Vegetable Risotto</strong>
+     <p>Creamy arborio rice with mushrooms, spinach, and parmesan</p>
+     </li>
+</ul>
+   <strong><h2>Desserts</h2></strong>
+<ul>
+     <li>
+     <strong>Classic Tiramisu</strong>
+     <p>Espresso-soaked ladyfingers with mascarpone cream</p>
+     </li>
+     <li>
+     <strong>Molten Chocolate Cake</strong>
+     <p>Rich chocolate cake with a warm, gooey center</p>
+     </li>
+     <li>
+     <strong>Lemon Cheesecake</strong>
+     <p>Smooth cheesecake with lemon curd and graham crust</p>
+     </li>
+</ul>     
+<p><a href="contact.html">Contact us for reservations</a></p> 
+</body>
+</html>
